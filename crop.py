@@ -1,11 +1,11 @@
 # Function to crop 19 MP image to desired shape.
-
 def crop_19_mp(image):
     output_image = image[365:3691, 100:4890]    # (y, x).
 
     return output_image
 
 
+# Function to crop 12 MP image to desired shape.
 def crop_12_mp(image):
     output_image = image[360:2849, 150:3849]    # (y, x).
 
