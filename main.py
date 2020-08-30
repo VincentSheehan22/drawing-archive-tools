@@ -6,7 +6,6 @@ from skimage import data, io
 import crop
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     input_directory = '/Users/vincentsheehan/Drawing/Drawings Archive/Sketchpads/~1999-'    # Modify/make user
                                                                                             # selectable for Github.

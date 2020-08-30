@@ -17,4 +17,6 @@ To do:
 - Function to crop.
 - Function to show modified file (vs original)?
 - Function to save modified file.
+- Function for greyscale (optional pass).
+- Function for contrast (optional pass).
 - Option to delete originals.
