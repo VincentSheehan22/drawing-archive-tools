@@ -1,4 +1,4 @@
-# DrawingArchiveTools
+# Drawing Archive Tools
 Scripts for performing batch operations on image files, for the purpose of
 maintaining a digital archive of drawings.
 
@@ -10,7 +10,7 @@ Folder of cropped JPEG images.
 
 ### To do:
 * [x] Specify source directory.
-* [x] Specify destination directory. Done
+* [x] Specify destination directory.
 * [ ] Identify source dimensions.
 * [ ] Identify desired dimensions.
 * [ ] Function to get file.

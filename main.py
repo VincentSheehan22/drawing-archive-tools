@@ -7,8 +7,8 @@ import crop
 
 
 if __name__ == '__main__':
-    input_directory = '/Users/vincentsheehan/Drawing/Drawings Archive/Sketchpads/~1999-'    # Modify/make user
-                                                                                            # selectable for Github.
+    input_directory = input("Directory path: ")
+    
     output_directory = input_directory + '_modified'
 
     # List files in input directory and sort by name.
