@@ -1,14 +1,17 @@
 # Drawing Archive Tools
+
+---
+
 Scripts for performing batch operations on image files, for the purpose of
 maintaining a digital archive of drawings.
 
-### Input:
+## Input
 Folder of 4:3 JPEG images.
 
-### Output:
+## Output
 Folder of cropped JPEG images.
 
-### To do:
+## To Do
 * [x] Specify source directory.
 * [x] Specify destination directory.
 * [ ] Identify source dimensions.
@@ -20,3 +23,4 @@ Folder of cropped JPEG images.
 * [ ] Function for greyscale (optional pass).
 * [ ] Function for contrast (optional pass).
 * [ ] Option to delete originals.
+* [ ] Output as SVG.
